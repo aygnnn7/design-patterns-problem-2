@@ -4,7 +4,7 @@ The Easter Bunny had access to a magic bag that could create three types of eggs
 When an egg was created, he took it and colored it or put stickers on it at random. 
 He would place the decorated eggs in a basket. There were 3 little chicks who watched the basket and when the eggs in the basket became more than 5, they would announce in one voice, "The eggs are ready!".
 <br><br>
-Describe the process of making Easter eggs. Use the templates for this purpose: **Singleton**, **Factory**, **Decorator**, **Observer**
+Describe the process of making Easter eggs. Use the patterns for this purpose: **Singleton**, **Factory**, **Decorator**, **Observer**
 <br><br>
 *The Easter Bunny can only be one. Factory can optionally be Factory method or Abstract Factory.*
 
